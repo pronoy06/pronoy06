@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m a B-tech CSE student<br>👯 I’m looking to collaborate on new projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Web Development<br>
+🔭 I’m a B-tech CSE student<br>👯 I’m looking to collaborate on new projects<br>🌱 I’m currently learning Web Development<br>
 
 
 ## 🌐 Socials:
